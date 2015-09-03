@@ -16,7 +16,7 @@ namespace Sample_1
         /// <summary>
         /// 在网站没有提供EncodingAESKey（或传入为null）的情况下的默认Token，建议在网站中进行配置。
         /// </summary>
-        public const string EncodingAESKey = "8eKaVU1Ei6M3c3kGY21LKNObvepQuIyQLCLKIt5Zc8u";
+        public const string EncodingAESKey = "5VAJ4SaTmWyPyMkEwgfC4UtYPK6ntm7iRn6UHBQ5A16";
         /// <summary>
         /// 在网站没有提供CorpId（或传入为null）的情况下的默认Token，建议在网站中进行配置。
         /// </summary>
