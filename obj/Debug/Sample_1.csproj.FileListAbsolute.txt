@@ -1,6 +1,5 @@
 C:\Users\jacky.cheng\Documents\GitHub\cwjtest\bin\Sample_1.dll.config
 C:\Users\jacky.cheng\Documents\GitHub\cwjtest\bin\Sample_1.dll
 C:\Users\jacky.cheng\Documents\GitHub\cwjtest\bin\Sample_1.pdb
-C:\Users\jacky.cheng\Documents\GitHub\cwjtest\obj\Debug\Sample_1.csprojResolveAssemblyReference.cache
 C:\Users\jacky.cheng\Documents\GitHub\cwjtest\obj\Debug\Sample_1.dll
 C:\Users\jacky.cheng\Documents\GitHub\cwjtest\obj\Debug\Sample_1.pdb
