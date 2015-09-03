@@ -20,7 +20,7 @@ namespace Sample_1
         /// <summary>
         /// 在网站没有提供CorpId（或传入为null）的情况下的默认Token，建议在网站中进行配置。
         /// </summary>
-        public const string CorpId = "Senparc";
+        public const string CorpId = "wxf2b43ae4acb3aa6b";
 
         /// <summary>
         /// 获取签名
