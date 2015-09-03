@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="Sample_1.Index" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Tencent.Sample.cs" Inherits="Sample_1.Index" %>
 
 <!DOCTYPE html>
 
